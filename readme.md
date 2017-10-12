@@ -1,2 +1,2 @@
 # Foobooks
-<foobooks.rektpwn.club>
+<http://foobooks.rektpwn.club>
